@@ -1,0 +1,40 @@
+{
+    "stateSubdivision": [
+        {
+            "subdivision": "начальство",
+            "state": {
+                "traders": 3,
+                "technicians": 1,
+                "helpers": 0,
+                "managers": 1
+            }
+        },
+        {
+            "subdivision": "1 отдел",
+            "state": {
+                "traders": 8,
+                "technicians": 0,
+                "helpers": 0,
+                "managers": 0
+            }
+        },
+        {
+            "subdivision": "2 отдел",
+            "state": {
+                "traders": 4,
+                "technicians": 0,
+                "helpers": 0,
+                "managers": 1
+            }
+        },
+        {
+            "subdivision": "3 отдел",
+            "state": {
+                "traders": 8,
+                "technicians": 0,
+                "helpers": 0,
+                "managers": 0
+            }
+        }
+    ]
+}
